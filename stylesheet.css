@@ -1,4 +1,13 @@
-div {
+#botao1 {
+
+	border: 2px solid #A6A6A6;
+	background-color: #EBEBEB;
+	height: 20px;
+	width: 50px;
+	
+	text-align: center;
+}
+#botao2 {
 
 	border: 2px solid #A6A6A6;
 	background-color: #EBEBEB;
